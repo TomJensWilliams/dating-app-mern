@@ -1,1 +1,1 @@
-# dating-app-mern
+# dating-app-mern-frontend
